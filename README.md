@@ -22,15 +22,7 @@ This repository also includes a pre-built executable that you can download witho
 - Allows skipping designated folders
 - Portable Windows executable (no installation required)
 
----
 
-## 📥 Download
-
-Get the latest release here:
-
-👉 https://github.com/zhilin220/file-organizer/releases/tag/v1.0
-
-Download the ZIP file and extract it to any location.
 
 ---
 
@@ -59,29 +51,4 @@ The organization happens recursively, but it avoids going into existing destinat
 - Recommended for personal or work folders (e.g., messy Downloads, Documents)
 - Always try it first on a **test folder** to see how it behaves
 - If your organization needs change (e.g., new file types), you can update the category lists in the source code
-
----
-
-## 🧠 Want to Customize?
-
-You can modify the source Python script in this repo:
-
-- Add or remove categories
-- Change how duplicates are handled
-- Add a “dry run” preview mode
-- Add logging or an enhanced GUI
-
----
-
-## 📜 License
-
-This project is open source and free to use.
-
----
-
-## 👋 About
-
-Created by **zhilin220** — a Python learner building real-life productivity tools.
-
-Happy organizing!
 
